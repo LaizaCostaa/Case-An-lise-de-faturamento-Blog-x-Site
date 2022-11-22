@@ -1,4 +1,4 @@
-# Analise exploratoria para insights de negócio
+# Analise exploratoria: insights para negocio
 Uma análise exploratória para auxiliar a empresa X nas tomadas de decisões envolvendo o blog da marca.  O objetivo é entender a influência que esse novo canal, criado há cerca de 3 meses, está exercendo na receita da empresa. 
 
 Utilizei excel e python para trabalhar com os dados e o Google Data Studio para vizualização.
