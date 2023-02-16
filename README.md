@@ -13,17 +13,18 @@ Para isso, por meio dessa análise exploratória, buscaremos:
 
 **CONTEXTO**
 
-*Status:
+*Status:*
 
 * A empresa já possui um site de vendas que funciona há um tempo;
 * A empresa criou um blog com conteúdo há aproximadamente 3 meses;
 
-*Perguntas iniciais:
+*Perguntas iniciais:*
 
 * Qual o impacto que o blog tem gerado na receita da empresa desde a sua criação?
 * É possível saber se é viável para a empresa (em termos de receita) manter ou não o blog ativo?
 * Qual canal exerce maior impacto na receita? Blog? site? Os dois?
-* Base de dados a ser utilizada na resolução do problema:
+
+*Base de dados a ser utilizada na resolução do problema:*
 
 * O número total de pessoas que acessaram o blog por dia;
 * O número de pessoas que acessaram o site e não passaram pelo blog por dia;
