@@ -26,11 +26,11 @@ Para isso, por meio dessa análise exploratória, buscaremos:
 
 *Base de dados a ser utilizada na resolução do problema:*
 
-* O número total de pessoas que acessaram o blog por dia;
-* O número de pessoas que acessaram o site e não passaram pelo blog por dia;
-* O número total de compras de pessoas que passaram pelo blog por dia;
-* O número total de compras de pessoas que não passaram pelo blog por dia;
-* Receita das compras que passaram ou não pelo blog por dia
+* O número total de usuários do blog por dia;
+* O número total de usuários do site por dia;
+* O número total de transações do blog por dia;
+* O número total de transações do site por dia;
+
 
 
 Link no Google Data Studio:
