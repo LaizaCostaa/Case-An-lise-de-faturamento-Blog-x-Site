@@ -30,6 +30,7 @@ Para isso, por meio dessa análise exploratória, buscaremos:
 * O número total de usuários do site por dia;
 * O número total de transações do blog por dia;
 * O número total de transações do site por dia;
+* Receita diária 
 
 
 
