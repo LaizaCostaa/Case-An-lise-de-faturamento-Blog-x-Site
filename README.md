@@ -10,7 +10,8 @@ Detectar padrões e desvios nos dados;
 Identificar as variáveis mais relevantes e de que forma se relacionam entre si;
 Encontrar tendências e formular hipóteses;
 Realizar inferências estatísticas básicas;
-CONTEXTO
+
+**CONTEXTO**
 
 Status:
 
