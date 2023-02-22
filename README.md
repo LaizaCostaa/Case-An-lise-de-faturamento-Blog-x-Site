@@ -2,7 +2,7 @@
 
 **RESUMO**
 
-Este projeto foi desenvolvido para auxiliar uma empresa de imóveis nas tomadas de decisões envolvendo o blog da marca. O objetivo dessa análise é entender de que forma a inclusã influência que esse novo canal, criado há cerca de 3 meses, está exercendo na receita da empresa.
+Este projeto foi desenvolvido para auxiliar uma empresa de imóveis nas tomadas de decisões envolvendo o blog da marca. O objetivo dessa análise é entender de que forma esse novo canal, está influenciando a receita da empresa.
 
 Para isso, por meio dessa análise exploratória, buscaremos:
 
