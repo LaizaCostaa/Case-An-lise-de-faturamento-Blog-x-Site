@@ -25,7 +25,7 @@ Para isso, por meio dessa análise, buscaremos:
 
 * Qual o impacto que o blog tem gerado na receita da empresa desde a sua criação?
 * É viável para a empresa (em termos de receita) manter ou não o blog ativo??
-* Qual a previsão da receita dos próximos meses, caso a empresa decida manter o blog?
+* É possível prever a receita dos próximos meses, caso a empresa decida manter o blog?
 
 
 Link no Google Data Studio:
